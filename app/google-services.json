@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386647366350",
+    "project_id": "my-air-book",
+    "storage_bucket": "my-air-book.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386647366350:android:53730d35f0870aa3960e9f",
+        "android_client_info": {
+          "package_name": "com.myself.myairbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386647366350-d2di2j8ltilcm7sbab58pcrbl8r0l9ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo3c011_eI62phjJEP36rLgnsCHKwxcNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386647366350-d2di2j8ltilcm7sbab58pcrbl8r0l9ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
