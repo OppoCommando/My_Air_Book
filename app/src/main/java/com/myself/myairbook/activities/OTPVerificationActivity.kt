@@ -29,7 +29,7 @@ class OTPVerificationActivity : AppCompatActivity() {
         supportActionBar?.hide()
         auth = FirebaseAuth.getInstance()
         dialog = ProgressDialog(this@OTPVerificationActivity)
-        dialog!!.setMessage("Sending OTP Please wait...")
+        dialog!!.setMessage("Sending OTP Please wait 2 min...")
         dialog!!.setCancelable(false)
         dialog!!.show()
 
